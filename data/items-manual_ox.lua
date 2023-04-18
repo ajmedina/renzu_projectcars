@@ -1,153 +1,174 @@
-['vehicle_shell'] = {
-    label = 'vehicle_shell',
-    weight = 1,
-    stack = true,
-    close = true,
-},
+	["vehicle_shell"] = {
+		label = "Vehicle_shell",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
 
-['vehicle_blueprints'] = {
-    label = 'vehicle_blueprints',
-    weight = 5,
-    stack = true,
-    close = true,
-},
 
-['door'] = {
-    label = 'door',
-    weight = 325,
-    stack = true,
-    close = true,
-},
-['bonnet'] = {
-    label = 'bonnet',
-    weight = 325,
-    stack = true,
-    close = true,
-},
-['trunk'] = {
-    label = 'trunk',
-    weight = 325,
-    stack = true,
-    close = true,
-},
-['wheel'] = {
-    label = 'wheel',
-    weight = 325,
-    stack = true,
-    close = true,
-},
-['seat'] = {
-    label = 'seat',
-    weight = 325,
-    stack = true,
-    close = true,
-},
-['engine'] = {
-    label = 'engine',
-    weight = 325,
-    stack = true,
-    close = true,
-},
-['transmition'] = {
-    label = 'transmition',
-    weight = 325,
-    stack = true,
-    close = true,
-},
-['exhaust'] = {
-    label = 'exhaust',
-    weight = 325,
-    stack = true,
-    close = false,
-},
-['brake'] = {
-    label = 'brake',
-    weight = 325,
-    stack = true,
-    close = true,
-},
+	["vehicle_blueprints"] = {
+		label = "Vehicle_blueprints",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
 
-['paint'] = {
-    label = 'paint',
-    weight = 10,
-    stack = true,
-    close = true,
-},
+
+	["door"] = {
+		label = "DOOR",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+	["bonnet"] = {
+		label = "HOOD",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+	["trunk"] = {
+		label = "TRUNK",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+	["wheel"] = {
+		label = "WHEEL",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+	["seat"] = {
+		label = "SEAT",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+	["engine"] = {
+		label = "ENGINE",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+	["transmition"] = {
+		label = "TRANSMISSION",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+	["exhaust"] = {
+		label = "EXHAUST",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+	["brake"] = {
+		label = "BRAKE",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+	["paint"] = {
+		label = "PAINT",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
 
 ---• NOT SURE, IF THIS NEED TO BE IN THERE •---
-['paint_white'] = {
-    label = 'white',
-    weight = 10,
-    stack = true,
-    close = true,
-},
+	["paint_white"] = {
+		label = "PAINT WHITE",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
 
-['paint_red'] = {
-    label = 'red',
-    weight = 10,
-    stack = true,
-    close = true,
-},
 
-['paint_pink'] = {
-    label = 'pink',
-    weight = 10,
-    stack = true,
-    close = true,
-},
+	["paint_red"] = {
+		label = "PAINT RED",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
 
-['paint_blue'] = {
-    label = 'blue',
-    weight = 10,
-    stack = true,
-    close = false,
-},
 
-['paint_yellow'] = {
-    label = 'yellow',
-    weight = 10,
-    stack = true,
-    close = false,
-},
+	["paint_pink"] = {
+		label = "PAINT PINK",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
 
-['paint_green'] = {
-    label = 'green',
-    weight = 10,
-    stack = true,
-    close = false,
-},
 
-['paint_orange'] = {
-    label = 'orange',
-    weight = 10,
-    stack = true,
-    close = false,
-},
+	["paint_blue"] = {
+		label = "PAINT BLUE",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
 
-['paint_brown'] = {
-    label = 'brown',
-    weight = 10,
-    stack = true,
-    close = false,
-},
 
-['paint_purple'] = {
-    label = 'purple',
-    weight = 10,
-    stack = true,
-    close = false,
-},
+	["paint_yellow"] = {
+		label = "PAINT YELLOW",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
 
-['paint_grey'] = {
-    label = 'grey',
-    weight = 10,
-    stack = true,
-    close = false,
-},
 
-['paint_black'] = {
-    label = 'black',
-    weight = 10,
-    stack = true,
-    close = false,
-},
+	["paint_green"] = {
+		label = "PAINT GREEN",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+
+	["paint_orange"] = {
+		label = "PAINT ORANGE",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+
+	["paint_brown"] = {
+		label = "PAINT BROWN",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+
+	["paint_purple"] = {
+		label = "PAINT PURPLE",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+
+	["paint_grey"] = {
+		label = "PAINT GREY",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+
+
+	["paint_black"] = {
+		label = "PAINT BLACK",
+		weight = 1,
+		stack = true,
+		close = true,
+	},
+------------UPDATE TO OX ITEMS-------------------------
